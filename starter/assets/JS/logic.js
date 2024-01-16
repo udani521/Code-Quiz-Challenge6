@@ -67,7 +67,7 @@ function showQuestion() {
 
 // Function to end the quiz
 function endQuiz() {
-  questionTitle.textContent = 'All done!';
+  questionTitle.textContent = '';
   choices.innerHTML = '';
   feedback.textContent = '';
   endScreen.style.display = 'block';
@@ -76,6 +76,6 @@ function endQuiz() {
 
 // Event listener for the start button
 startButton.addEventListener('click', startQuiz);
-
+submitButton.addEventListener('click',printHighscores);
 
 
