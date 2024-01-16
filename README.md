@@ -34,7 +34,21 @@ SO THAT I can gauge my progress compared to my peers
 
 ¤ THEN I can save my initials and score
 
- # Usage     
+ # Overview   
 
 https://github.com/udani521/Code-Quiz-Challenge6/blob/main/assets/Screenshot%202024-01-16%20183943.png
 https://github.com/udani521/Code-Quiz-Challenge6/blob/main/assets/Screenshot%202024-01-16%20183812.png
+
+# Deploy Site
+
+
+# Built with
+HTML, CSS, JAVASCRIPT
+
+# Credit
+https://github.com/udani521/Code-Quiz-Challenge6/blob/main/assets/Screenshot%202024-01-16%20183812.png
+https://www.w3schools.com/js/js_json.asp#gsc.tab=0&gsc.q=js%20timeintervals
+
+# License
+Please refer to the License in the repo
+
