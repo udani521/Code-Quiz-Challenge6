@@ -35,3 +35,5 @@ SO THAT I can gauge my progress compared to my peers
 ¤ THEN I can save my initials and score
 
  # Usage     
+
+https://github.com/udani521/Code-Quiz-Challenge6/blob/main/assets/Screenshot%202024-01-16%20183943.png
