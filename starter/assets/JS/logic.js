@@ -9,6 +9,8 @@ const endScreen = document.getElementById('end-screen');
 const finalScore = document.getElementById('final-score');
 const initialsInput = document.getElementById('initials');
 const submitButton = document.getElementById('submit');
+const questionsDiv = document.getElementById('questions');
+const choicesDiv = document.getElementById('choices');
 
 let currentQuestionIndex = 0;
 let time = 60; // Set the initial time for the quiz
@@ -74,8 +76,6 @@ function endQuiz() {
 
 // Event listener for the start button
 startButton.addEventListener('click', startQuiz);
-
-
 
 
 
