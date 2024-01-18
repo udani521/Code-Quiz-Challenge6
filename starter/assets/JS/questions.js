@@ -1,6 +1,6 @@
 //Questions and answers are represent as Multi-dimentional(2D) array with inner array elements.
 
-const questions = [
+var questions = [
     {
         title: "1. Inside which HTML element do we put the JavaScript?",
         choices: ['<javasript></javasript>',
